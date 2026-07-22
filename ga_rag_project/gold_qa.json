@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the main advantage of Genetic Algorithms over gradient-based methods?",
+    "answer": "Genetic Algorithms do not require gradient information and can escape local optima through population diversity and stochastic operators."
+  },
+  {
+    "question": "Define exploration and exploitation in the context of metaheuristic algorithms.",
+    "answer": "Exploration refers to searching new, unvisited regions of the search space, while exploitation focuses on refining solutions in promising areas already discovered."
+  },
+  {
+    "question": "What operators are used in a Genetic Algorithm?",
+    "answer": "Genetic Algorithms use selection, crossover (recombination), and mutation operators to evolve a population of candidate solutions."
+  },
+  {
+    "question": "What is the role of fitness function in evolutionary algorithms?",
+    "answer": "The fitness function evaluates how well a candidate solution solves the problem; it guides selection so that better solutions reproduce more frequently."
+  },
+  {
+    "question": "What does RAG stand for and what are its components?",
+    "answer": "RAG stands for Retrieval-Augmented Generation. Its main components are a retriever that fetches relevant document chunks and a generator (LLM) that produces answers conditioned on those chunks."
+  }
+]

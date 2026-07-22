@@ -1,0 +1,6 @@
+Iteration,Best Fitness,G1 (chunk_size),G2 (chunk_overlap),G3 (temperature),G4 (top_k),LLM_Calls
+1,0.42,350,80,0.6,3,10
+2,0.61,480,60,0.35,4,20
+3,0.76,520,70,0.22,4,30
+4,0.83,510,65,0.18,5,40
+5,0.87,500,60,0.15,5,50

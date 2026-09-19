@@ -1,6 +1,6 @@
 # 🧬 Genetic Algorithm for RAG Pipeline Hyperparameter Optimization
 
-An interactive meta-optimization framework that uses a **Genetic Algorithm (GA)** to search and optimize hyperparameters for a local **Retrieval-Augmented Generation (RAG)** pipeline. Built for *Assignment III — Meta-Heuristic Optimization Techniques*, this system aims to maximize answer quality (using semantic similarity evaluation) under strict computational budget constraints.
+An interactive meta-optimization framework that uses a **Genetic Algorithm (GA)** to search and optimize hyperparameters for a local **Retrieval-Augmented Generation (RAG)** pipeline. Built for  this system aims to maximize answer quality (using semantic similarity evaluation) under strict computational budget constraints.
 
 ---
 

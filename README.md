@@ -22,8 +22,7 @@ An interactive meta-optimization framework that uses a **Genetic Algorithm (GA)*
 ## 📂 Directory Structure
 
 ```text
-assignment_3/
-├── Assignment_III_Documentation.pdf   # Technical documentation/research report
+assignment/
 ├── README.md                          # Repository documentation
 └── ga_rag_project/                    # Application source code
     ├── ga_rag_optimization.py         # Main Streamlit dashboard & GA logic
